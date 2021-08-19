@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Stream>
+  <Packages>
+    <!--InputFile elements here-->
+    <InputFile type="cab" store="pkgc2r_accessmui\x86\ship\zh-cn\accessmui.msi.16.cab" dest="Office\Data\Version\Access.x86.zh-cn.16.cab" />
+    <InputFile type="cab" store="pkgc2r_excelmui\x86\ship\zh-cn\excelmui.msi.16.cab" dest="Office\Data\Version\Excel.x86.zh-cn.16.cab" />
+    <InputFile type="cab" store="pkgc2r_dcfmui\x86\ship\zh-cn\dcfmui.msi.16.cab" dest="Office\Data\Version\DCF.x86.zh-cn.16.cab" />
+    <InputFile type="cab" store="pkgc2r_groovemui\x86\ship\zh-cn\groovemui.msi.16.cab" dest="Office\Data\Version\Groove.x86.zh-cn.16.cab" />
+    <InputFile type="cab" store="pkgc2r_lyncmui\x86\ship\zh-cn\lyncmui.msi.16.cab" dest="Office\Data\Version\Lync.x86.zh-cn.16.cab" />
+    <InputFile type="cab" store="pkgc2r_officemui\x86\ship\zh-cn\officemui.msi.16.cab" dest="Office\Data\Version\Office.x86.zh-cn.16.cab" />
+    <InputFile type="cab" store="pkgc2r_onenotemui\x86\ship\zh-cn\onenotemui.msi.16.cab" dest="Office\Data\Version\OneNote.x86.zh-cn.16.cab" />
+    <InputFile type="cab" store="pkgc2r_osmmui\x86\ship\zh-cn\osmmui.msi.16.cab" dest="Office\Data\Version\OSM.x86.zh-cn.16.cab" />
+    <InputFile type="cab" store="pkgc2r_osmuxmui\x86\ship\zh-cn\osmuxmui.msi.16.cab" dest="Office\Data\Version\OSMUX.x86.zh-cn.16.cab" />
+    <InputFile type="cab" store="pkgc2r_outlookmui\x86\ship\zh-cn\outlookmui.msi.16.cab" dest="Office\Data\Version\Outlook.x86.zh-cn.16.cab" />
+    <InputFile type="cab" store="pkgc2r_powerpointmui\x86\ship\zh-cn\powerpointmui.msi.16.cab" dest="Office\Data\Version\PowerPoint.x86.zh-cn.16.cab" />
+    <InputFile type="cab" store="pkgc2r_projectmui\x86\ship\zh-cn\projectmui.msi.16.cab" dest="Office\Data\Version\Project.x86.zh-cn.16.cab" />
+    <InputFile type="cab" store="pkgc2r_publishermui\x86\ship\zh-cn\publishermui.msi.16.cab" dest="Office\Data\Version\Publisher.x86.zh-cn.16.cab" />
+    <InputFile type="cab" store="pkgc2r_visiomui\x86\ship\zh-cn\visiomui.msi.16.cab" dest="Office\Data\Version\Visio.x86.zh-cn.16.cab" />
+    <InputFile type="cab" store="pkgc2r_wordmui\x86\ship\zh-cn\wordmui.msi.16.cab" dest="Office\Data\Version\Word.x86.zh-cn.16.cab" />
+    <InputFile type="cab" store="pkgc2r_office64mui\x86\ship\zh-cn\office64mui.msi.16.cab" dest="Office\Data\Version\Office64MUI.x86.zh-cn.16.cab" />
+    <InputFile type="cab" store="pkgc2r_proof\x86\ship\en-us\proof.Culture.msi.16.cab" dest="Office\Data\Version\Proof.x86.en-us.16.cab" />
+    <InputFile type="cab" store="pkgc2r_proof\x86\ship\zh-cn\proof.Culture.msi.16.cab" dest="Office\Data\Version\Proof.x86.zh-cn.16.cab" />
+    <InputFile type="cab" store="pkgc2r_proofing\x86\ship\zh-cn\proofing.msi.16.cab" dest="Office\Data\Version\Proofing.x86.zh-cn.16.cab" />
+  </Packages>
+  <Environment>
+    <!--Envionment elements here-->
+  </Environment>
+</Stream>

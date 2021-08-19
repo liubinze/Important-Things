@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Stream>
+  <Packages>
+    <!--InputFile elements here-->
+    <InputFile type="cab" store="pkgc2r_proofing\x86\ship\zh-cn\proofing.msi.16.cab" dest="Office\Data\Version\Proofing.x86.zh-cn.16.cab" />
+    <InputFile type="cab" store="pkgc2r_proof\x86\ship\zh-cn\proof.Culture.msi.16.cab" dest="Office\Data\Version\Proof.x86.zh-cn.16.cab" />
+  </Packages>
+  <Environment>
+    <!--Envionment elements here-->
+  </Environment>
+</Stream>

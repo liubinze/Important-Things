@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Stream>
+  <Packages>
+    <!--InputFile elements here-->
+    <InputFile type="cab" store="pkgc2r_mondoww\x86\ship\x-none\access.x-none.msi.16.cab" dest="Office\Data\Version\Access.x86.x-none.16.cab" />
+    <InputFile type="cab" store="pkgc2r_mondoww\x86\ship\x-none\excel.x-none.msi.16.cab" dest="Office\Data\Version\Excel.x86.x-none.16.cab" />
+    <InputFile type="cab" store="pkgc2r_mondoww\x86\ship\x-none\dcf.x-none.msi.16.cab" dest="Office\Data\Version\DCF.x86.x-none.16.cab" />
+    <InputFile type="cab" store="pkgc2r_mondoww\x86\ship\x-none\groove.x-none.msi.16.cab" dest="Office\Data\Version\Groove.x86.x-none.16.cab" />
+    <InputFile type="cab" store="pkgc2r_mondoww\x86\ship\x-none\lync.x-none.msi.16.cab" dest="Office\Data\Version\Lync.x86.x-none.16.cab" />
+    <InputFile type="cab" store="pkgc2r_mondoww\x86\ship\x-none\mondoonly.x-none.msi.16.cab" dest="Office\Data\Version\MondoOnly.x86.x-none.16.cab" />
+    <InputFile type="cab" store="pkgc2r_mondoww\x86\ship\x-none\office.x-none.msi.16.cab" dest="Office\Data\Version\Office.x86.x-none.16.cab" />
+    <InputFile type="cab" store="pkgc2r_mondoww\x86\ship\x-none\onenote.x-none.msi.16.cab" dest="Office\Data\Version\OneNote.x86.x-none.16.cab" />
+    <InputFile type="cab" store="pkgc2r_mondoww\x86\ship\x-none\osm.x-none.msi.16.cab" dest="Office\Data\Version\OSM.x86.x-none.16.cab" />
+    <InputFile type="cab" store="pkgc2r_mondoww\x86\ship\x-none\osmux.x-none.msi.16.cab" dest="Office\Data\Version\OSMUX.x86.x-none.16.cab" />
+    <InputFile type="cab" store="pkgc2r_mondoww\x86\ship\x-none\outlook.x-none.msi.16.cab" dest="Office\Data\Version\Outlook.x86.x-none.16.cab" />
+    <InputFile type="cab" store="pkgc2r_mondoww\x86\ship\x-none\powerpoint.x-none.msi.16.cab" dest="Office\Data\Version\PowerPoint.x86.x-none.16.cab" />
+    <InputFile type="cab" store="pkgc2r_mondoww\x86\ship\x-none\project.x-none.msi.16.cab" dest="Office\Data\Version\Project.x86.x-none.16.cab" />
+    <InputFile type="cab" store="pkgc2r_mondoww\x86\ship\x-none\publisher.x-none.msi.16.cab" dest="Office\Data\Version\Publisher.x86.x-none.16.cab" />
+    <InputFile type="cab" store="pkgc2r_mondoww\x86\ship\x-none\visio.x-none.msi.16.cab" dest="Office\Data\Version\Visio.x86.x-none.16.cab" />
+    <InputFile type="cab" store="pkgc2r_mondoww\x86\ship\x-none\word.x-none.msi.16.cab" dest="Office\Data\Version\Word.x86.x-none.16.cab" />
+    <InputFile type="cab" store="pkgc2r_mondoww\x86\ship\x-none\powerpivot.x-none.msi.16.cab" dest="Office\Data\Version\PowerPivot.x86.x-none.16.cab" />
+    <InputFile type="cab" store="pkgc2r_mondoww\x86\ship\x-none\powerview.x-none.msi.16.cab" dest="Office\Data\Version\PowerView.x86.x-none.16.cab" />
+    <InputFile type="cab" store="pkgc2r_office64ww\x86\ship\x-none\office64ww.msi.16.cab" dest="Office\Data\Version\Office64.x86.x-none.16.cab" />
+    <InputFile type="cab" store="pkgc2r_office64ww\x86\ship\x-none\AppLocalUCRT64.x-none.msi.16.cab" dest="Office\Data\Version\AppLocalUCRT64.x86.x-none.16.cab" />
+    <InputFile type="cab" store="pkgc2r_office64ww\x86\ship\x-none\AppLocalCRT64.x-none.msi.16.cab" dest="Office\Data\Version\AppLocalCRT64.x86.x-none.16.cab" />
+    <InputFile type="cab" store="pkgc2r_mondoww\x86\ship\x-none\Teams64.x-none.msi.16.cab" dest="Office\Data\Version\Teams64.x86.x-none.16.cab" />
+    <InputFile type="cab" store="pkgc2r_mondoww\x86\ship\x-none\AppLocalUCRT.x-none.msi.16.cab" dest="Office\Data\Version\AppLocalUCRT.x86.x-none.16.cab" />
+    <InputFile type="cab" store="pkgc2r_mondoww\x86\ship\x-none\AppLocalCRT.x-none.msi.16.cab" dest="Office\Data\Version\AppLocalCRT.x86.x-none.16.cab" />
+    <InputFile type="cab" store="pkgc2r_mondoww\x86\ship\x-none\OfficeHelper.x-none.msi.16.cab" dest="Office\Data\Version\OfficeHelper.x86.x-none.16.cab" />
+    <InputFile type="cab" store="pkgc2r_mondoww\x86\ship\x-none\OneDriveSetup.x-none.msi.16.cab" dest="Office\Data\Version\OneDriveSetup.x86.x-none.16.cab" />
+    <InputFile type="cab" store="pkgc2r_mondoww\x86\ship\x-none\OutlookShare.x-none.msi.16.cab" dest="Office\Data\Version\OutlookShare.x86.x-none.16.cab" />
+    <InputFile type="cab" store="pkgc2r_mondoww\x86\ship\x-none\Teams.x-none.msi.16.cab" dest="Office\Data\Version\Teams.x86.x-none.16.cab" />
+    <InputFile type="cab" store="pkgc2r_mondoww\x86\ship\x-none\Bing.x-none.msi.16.cab" dest="Office\Data\Version\Bing.x86.x-none.16.cab" />
+  </Packages>
+  <Environment>
+    <!--Envionment elements here-->
+  </Environment>
+</Stream>
