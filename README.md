@@ -8,7 +8,7 @@ My important things.
 ### [Dev-Cpp 5.11 TDM-GCC 4.9.2 Setup.exe](https://udomain.dl.sourceforge.net/project/orwelldevcpp/Setup%20Releases/Dev-Cpp%205.11%20TDM-GCC%204.9.2%20Setup.exe)
 ### [GeoGebra-Windows-Installer-6-0-662-0.exe](https://download.geogebra.org/package/win-autoupdate)
 ### [ProPlus2019Retail.img](http://officecdn.microsoft.com/pr/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/zh-cn/ProPlus2019Retail.img)
-### [VSCodeUserSetup-x64-1.59.0.exe](https://az764295.vo.msecnd.net/stable/379476f0e13988d90fab105c5c19e7abc8b1dea8/VSCodeUserSetup-x64-1.59.0.exe)
+### [VSCodeSetup-x64-1.60.0.exe](https://az764295.vo.msecnd.net/stable/e7d7e9a9348e6a8cc8c03f877d39cb72e5dfb1ff/VSCodeSetup-x64-1.60.0.exe)
 ### [mingw-w64-install.exe](https://nchc.dl.sourceforge.net/project/mingw-w64/Toolchains%20targetting%20Win32/Personal%20Builds/mingw-builds/installer/mingw-w64-install.exe)
 ### [python-3.8.12-amd64.exe](https://www.python.org/ftp/python/3.8.12/python-3.8.12-amd64.exe)
 ### [python-3.9.7-amd64.exe](https://www.python.org/ftp/python/3.9.7/python-3.9.7-amd64.exe)
