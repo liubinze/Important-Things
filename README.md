@@ -14,7 +14,7 @@ My important things.
 ### [python-3.9.6-amd64.exe](https://www.python.org/ftp/python/3.9.6/python-3.9.6-amd64.exe)
 ### [sublime_text_build_4113_x64_setup.exe](https://download.sublimetext.com/sublime_text_build_4113_x64_setup.exe)
 ### [typora-setup-x64.exe](https://typora.io/windows/typora-setup-x64.exe)
-# [ ](gaming area)
+# [ ](/)
 [](http://dejavu.narod.ru/hiddex.zip)
 [](https://github.com/imengyu/JiYuTrainer/releases/download/1.7.6/JiYuTrainer.exe)
 [](https://softpedia-secure-download.com/dl/e9dcd177b7c1e289f7ed76ca40558aff/6135f4d7/100253290/software/portable/security/PCHunter_free.zip)
