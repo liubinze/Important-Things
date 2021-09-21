@@ -2,7 +2,6 @@
 My important things.
 # Download Area
 ### [7z1900-x64.exe](https://www.7-zip.org/a/7z1900-x64.exe)
-### [7z1900-x64.exe](https://raw.githubusercontent.com/ip7z/a/main/7z1900-x64.exe)
 ### [CCHv2.v2.0-beta-17.win64.zip](https://github.com/CodeforcesContestHelper/CCHv2/releases/download/v2.0-beta-17/CCHv2.v2.0-beta-17.win64.zip)
 ### [Dev-Cpp 5.11 TDM-GCC 4.9.2 Setup.exe](https://nchc.dl.sourceforge.net/project/orwelldevcpp/Setup%20Releases/Dev-Cpp%205.11%20TDM-GCC%204.9.2%20Setup.exe)
 ### [Dev-Cpp 5.11 TDM-GCC 4.9.2 Setup.exe](https://udomain.dl.sourceforge.net/project/orwelldevcpp/Setup%20Releases/Dev-Cpp%205.11%20TDM-GCC%204.9.2%20Setup.exe)
